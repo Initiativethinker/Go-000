@@ -181,6 +181,6 @@
 
     ![image-20201122134502286](/Users/liuchenjianshu/Library/Application Support/typora-user-images/image-20201122134502286.png)
 
-    但是通常一个LB是不够的，如果有多个LB，那么需要多个IP地址，服务端访问也要通过访问多个IP地址，可以使用Linux virtual Server，将多个LB进行打包，对外只公开一个IP
+    但是通常一个LB是不够的，如果有多个LB，那么需要多个IP地址，服务端访问也要通过访问多个IP地址，可以使用Linux virtual Server，将多个LB进行打包，对外只公开一个IP。
 
 + 多集群&多租户
